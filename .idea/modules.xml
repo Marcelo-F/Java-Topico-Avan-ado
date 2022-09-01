@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Curso-Java-Tópicos-Avançados.iml" filepath="$PROJECT_DIR$/Curso-Java-Tópicos-Avançados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9/FactoryMethodPrj/FactoryMethodPrj.iml" filepath="$PROJECT_DIR$/Java9/FactoryMethodPrj/FactoryMethodPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9/InteferenciaInternasAnonimas/InteferenciaInternasAnonimas.iml" filepath="$PROJECT_DIR$/Java9/InteferenciaInternasAnonimas/InteferenciaInternasAnonimas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9/InterfacesPrivado/InterfacesPrivado.iml" filepath="$PROJECT_DIR$/Java9/InterfacesPrivado/InterfacesPrivado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java10NewFeatures/Java10NewFeatures.iml" filepath="$PROJECT_DIR$/Java10NewFeatures/Java10NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java11NewFeatures/Java11NewFeatures.iml" filepath="$PROJECT_DIR$/Java11NewFeatures/Java11NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java12NewFeatures/Java12NewFeatures.iml" filepath="$PROJECT_DIR$/Java12NewFeatures/Java12NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java13NewFeatures/Java13NewFeatures.iml" filepath="$PROJECT_DIR$/Java13NewFeatures/Java13NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java14NewFeatures/Java14NewFeatures.iml" filepath="$PROJECT_DIR$/Java14NewFeatures/Java14NewFeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9/Optional/Optional.iml" filepath="$PROJECT_DIR$/Java9/Optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java9/TryCatch/TryCatch.iml" filepath="$PROJECT_DIR$/Java9/TryCatch/TryCatch.iml" />
+    </modules>
+  </component>
+</project>

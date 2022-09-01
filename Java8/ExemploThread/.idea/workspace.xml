@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e130cb33-86e4-4081-a857-4ae30467913e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BhpWDplkGYQyv23OlgDFVucuh5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/marcelo/Transferências/Java 8 New Features"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Aula02_Methodo_References" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aula3_Pacote_Stream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aula9_AnnotationsExemplo.Exemplo01">
+    <configuration name="Aula9_AnnotationsExemplo.Exemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula9_AnnotationsExemplo.Exemplo01" />
+      <module name="Java 8 New Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula9_AnnotationsExemplo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula8_Reflexao_Metodos_Parametros.Exemplo01" />
+      <module name="Java 8 New Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula8_Reflexao_Metodos_Parametros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula6_Optional.OptionalExemplo" />
+      <module name="Java 8 New Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula6_Optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula7_ParallelArraySort.ParallelArraySort" />
+      <module name="Java 8 New Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula7_ParallelArraySort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringJoinerExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula5_StringJoiner.StringJoinerExemplo" />
+      <module name="Java 8 New Features" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula5_StringJoiner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java 8 New Features" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java 8 New Features" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aula9_AnnotationsExemplo.Exemplo01" />
+        <item itemvalue="Application.Exemplo01" />
+        <item itemvalue="Application.ParallelArraySort" />
+        <item itemvalue="Application.OptionalExemplo" />
+        <item itemvalue="Application.StringJoinerExemplo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e130cb33-86e4-4081-a857-4ae30467913e" name="Changes" comment="" />
+      <created>1657368201807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657368201807</updated>
+    </task>
+    <servers />
+  </component>
+</project>
